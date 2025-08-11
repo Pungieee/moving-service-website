@@ -18,4 +18,4 @@ In this project, I practiced:
 I wanted to improve my HTML and Bootstrap skills by putting all these components together.
 It’s a simple site but good for practicing frontend basics.
 
-Just open the index.html file to see how it works:D !
+Just open the _index.html_ file to see how it works:D !
